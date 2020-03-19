@@ -3,7 +3,7 @@ def say_hello(name)
 end
 
 def say_hello(name) 
-  name = "Ruby Programmer"
+  name = ["Ruby_Programmer"]
   puts "Hello, #{name}."
 end
 
